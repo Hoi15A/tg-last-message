@@ -1,4 +1,5 @@
 {
   "token":"123456789:AABBCCDDEEFFGGhhiijjkkllmm",
-  "counter":0
+  "charLimit": 75,
+  "counter": 0
 }
